@@ -1,6 +1,7 @@
 #include <graphics.h>
 #include <stdio.h>
 #include <conio.h>
+#include<stdlib.h>
 #define max 10
 #define MAX 10
 #include <math.h>
